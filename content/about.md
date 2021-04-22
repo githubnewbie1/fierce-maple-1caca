@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2021-04-22'
-author: Radek
+author: who cares
 ---
 
 # Hi there
